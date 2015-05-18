@@ -1,4 +1,4 @@
-# laravel-nginx-server-configuration
+# nginx-virtual-host-laravel
 
 
 ```
